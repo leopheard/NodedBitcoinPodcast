@@ -21,10 +21,10 @@
     <source>https://github.com/leopheard/NodedBitcoinPodcast</source>
     <website>https://noded.org/</website>
         	<assets>
-			<icon>resources/media/icon.jpg</icon>
+			<icon>resources/media/1.jpg</icon>
 			<fanart>resources/media/fanart.jpg</fanart>
 			<screenshot>resources/media/1.jpg</screenshot>
-			<screenshot>resources/media/icon.jpg</screenshot>
+			<screenshot>resources/media/1.jpg</screenshot>
 			<screenshot>resources/media/1.jpg</screenshot>
 		</assets>
   </extension>
